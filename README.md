@@ -11,7 +11,8 @@
 
 📊 Analytics 🔝
                                                                                                   
- <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />                                                                              
+ <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+ 
 ⚡ Database 🔝
                                                                                                                               
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
