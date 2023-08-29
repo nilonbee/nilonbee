@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+I'm+a+Fullstack+Developer;I+'am+good+with+Next+Js+Node+Express+and+React+JS;I'm+passionate+of+building+clean+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+I'm+a+Fullstack+Developer;I+'am+good+with+React+Next+Js+Node+Express;I'm+passionate+of+building+clean+UI)](https://git.io/typing-svg)
 
 🚀 Frameworks & Library 🔝
 
