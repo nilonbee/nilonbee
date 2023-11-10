@@ -52,7 +52,7 @@
 💬 Get in touch...
 
 - LinkedIn: [Nilan Athapaththu](https://www.linkedin.com/in/nilan-athapaththu-739499203)
-- Email: [nilan@example.com](nilonbee@gmail.com)
+- Email: [nilonbee@gmail.com](nilonbee@gmail.com)
 
 Feel free to explore my projects and don't hesitate to get in touch for collaboration or if you have any questions. Let's build amazing things together!
 
