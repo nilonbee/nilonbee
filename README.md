@@ -47,13 +47,12 @@
 
 🌱 Currently working on...
 
-- [Project 1](https://github.com/nilonbee/project1)
-- [Project 2](https://github.com/nilonbee/project2)
+- [full-Project](https://campusdirect.io)
 
 💬 Get in touch...
 
-- LinkedIn: [Nilan Athapaththu](https://www.linkedin.com/in/nilonbee/)
-- Email: [nilan@example.com](mailto:nilan@example.com)
+- LinkedIn: [Nilan Athapaththu](https://www.linkedin.com/in/nilan-athapaththu-739499203)
+- Email: [nilan@example.com](nilonbee@gmail.com)
 
 Feel free to explore my projects and don't hesitate to get in touch for collaboration or if you have any questions. Let's build amazing things together!
 
