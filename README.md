@@ -1,141 +1,135 @@
-<h1 align="center">👋 Hey, I'm Nilan Athapaththu</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="./header.gif" alt="Nilan Athapaththu – Neon Animated Header" width="100%" />
+</p>
+
+<h1 align="center">✨ Full Stack Developer | Software Engineer | Problem Solver ✨</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Software Engineer | Problem Solver</strong><br/>
-  Passionate about building scalable systems, elegant UI, and meaningful digital experiences.
+  Passionate about building scalable applications, beautiful interfaces, and efficient backend systems.
+  <br/>
+  I love combining <strong>design + engineering</strong> to craft meaningful digital experiences.
 </p>
 
 ---
 
-## 🚀 About Me  
-Hey there! I'm **Nilan**, a passionate Full Stack Developer with experience in building production-ready applications using **Next.js, React, Node.js, Nest.js, Laravel, Express**, and modern DevOps workflows.  
-From crafting clean, responsive interfaces to implementing robust backend systems, I enjoy turning ideas into reliable digital products.
+## 🚀 About Me
 
-✔ Strong in **software engineering principles**  
-✔ Experienced in **performance optimization, SSR/CSR strategies, cloud deployments**  
-✔ Worked across **EdTech, Telecommunication, CRM, E-commerce** ecosystems  
-✔ Always learning, always improving  
+I'm **Nilan Athapaththu**, a dedicated Full Stack Developer with strong experience in:
+
+- ⚡ Next.js, React, Node.js, Nest.js & Express  
+- 🧠 Complex integrations (Salesforce, Laravel middleware, JSForce)  
+- 🧩 High-performance SSR/CSR hybrid architectures  
+- 🧪 Web scraping, automation, testing  
+- 🛠️ UI/UX engineering + component architecture  
+- ☁️ Deployments, cloud hosting, and production-ready systems  
+
+Focused, fast-learning, and always aiming for **clean code, scalability, and performance**.
 
 ---
 
-## 🧠 Tech Stack & Skills (Creative Badges Edition)
+## 🧠 Tech Stack (3D ICONS)
 
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind" />
+### 🎨 **Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,materialui&theme=dark" />
 </p>
 
-### ⚙️ **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,mysql,mongodb,postgres" />
+### ⚙️ **Backend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,mysql,mongodb,postgres&theme=dark" />
 </p>
 
-### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,azure,vercel,docker,postman" />
+### 🛠️ **Tools & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,azure,docker,vercel,postman,cloudflare&theme=dark" />
 </p>
 
 ### 🤖 **Other Skills**
-- Web Scraping (Puppeteer, Cheerio)  
-- Microservices & API Integrations  
-- Salesforce Integration (JSForce)  
-- Software design patterns  
-- CI/CD, DevOps basics  
-- A/B testing, Contentful, automation testing  
+- Puppeteer & Cheerio Scraping  
+- Salesforce (JSForce) Integration  
+- Design Patterns & Software Architecture  
+- A/B testing, Contentful, automation  
+- Performance tuning, caching, optimization  
 
 ---
 
-## 🏆 Featured Projects
+## 🎯 Featured Projects
 
-### 🔹 **Campus Direct Web – Full Next.js Platform**  
-🚀 Built end-to-end using **SSR + CSR hybrid rendering**  
-🎯 Implemented atomic design architecture  
-⚡ SEO optimized, fast, scalable  
-🔗 **Live:** https://www.campusdirect.io/
-
----
-
-### 🔹 **University Course Scraper (Puppeteer + Cheerio)**  
-📡 Secure automated scraping  
-🧭 Extracts data from multiple university websites  
-🔗 Repo: https://github.com/nilonbee/university-courses-extractor/tree/master/universities
+### 🔹 **Campus Direct Web** – Next.js (SSR/CSR)
+✔ Built end-to-end  
+✔ Atomic design component system  
+✔ SEO optimized + blazing fast  
+🔗 https://www.campusdirect.io/
 
 ---
 
-### 🔹 **Jobs Application Dashboard (MERN)**  
-✔ JWT authentication  
-✔ MongoDB + Express backend  
-✔ Fast React UI  
-🔗 Live: https://jobs-dashboard.onrender.com/
+### 🔹 **University Courses Scraper**
+Node.js + Puppeteer + Cheerio  
+🔗 https://github.com/nilonbee/university-courses-extractor/tree/master/universities
 
 ---
 
-### 🔹 **Salesforce Middleware Layer**  
-💼 Node.js + Express  
-🔗 Real-time syncing between **Laravel backend** & **Salesforce CRM**  
-⚙ Uses JSForce
+### 🔹 **Jobs Application Dashboard (MERN)**
+React + Express + MongoDB + JWT  
+🔗 https://jobs-dashboard.onrender.com/
 
 ---
 
-### 🔹 **RocketPhone (AI-Powered VoIP System)**  
-🎧 Call recording, transcription  
-🔁 Salesforce integration  
-🖥 UI engineering + automation testing  
+### 🔹 **Salesforce Middleware Layer**
+Node.js + Express + JSForce  
+Real-time sync between Laravel & Salesforce.
+
+---
+
+### 🔹 **RocketPhone (AI VoIP System)**
+React frontend + AI transcription + Salesforce integration  
 🔗 https://www.rocketphone.ai/
 
 ---
 
 ## 💼 Experience
 
-### **Full Stack Engineer – Campus Direct (May 2023 - Present)**
-- Next.js, React, Node.js, Nest.js developer  
-- Designed & deployed multiple production systems  
-- Created secure scrapers & backend architecture  
-- Worked with MySQL, Laravel, Salesforce integrations  
+### **Full Stack Engineer – Campus Direct (2023–Present)**
+- Next.js, React, Node.js, Nest.js  
+- Scrapers, integration, optimization  
+- Database design, deployments, production systems  
 
-### **Associate Frontend Engineer – Incubate Labs (2022 - Present)**
+### **Associate Frontend Engineer – Incubate Labs (2022–Present)**
 - React, Redux, TypeScript  
-- Contentful Marketplace app  
-- A/B testing + personalization features  
+- Contentful personalization + A/B testing  
+- Client-facing Next.js apps  
 
-### **Software Engineer – RocketPhone (2021 - 2023)**  
-- Frontend engineering  
-- QA Automation  
-- UI/UX workflows  
-- CRM + VoIP features  
+### **Software Engineer – RocketPhone**
+- UI engineering  
+- QA automation  
+- CRM + AI VoIP development  
 
 ---
 
 ## 🎓 Education
-
-**B.Eng in Computer Science & Technology — Tianjin Agricultural University (China)**  
-Specialized in software engineering, algorithms, cloud computing & system design.
+**B.Eng in Computer Science & Technology**  
+Tianjin Agricultural University (China)
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="mailto:nilonbee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/nilan-athapaththu-739499203"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://nilonbee-portfolio-24-nilonbees-projects.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="mailto:nilonbee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+  <a href="https://www.linkedin.com/in/nilan-athapaththu-739499203"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://nilonbee-portfolio-24-nilonbees-projects.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
 </p>
 
 ---
 
-## 🧩 Fun Personal Notes  
-- 🌍 Love building products that help communities  
-- 🎨 Big fan of clean UI and animations  
-- 💡 Obsessed with web performance and clean architecture  
-- 🔧 Always experimenting with new stacks  
+## ⭐ GitHub Stats
 
----
-
-## ⭐ GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nilonbee&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilonbee&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nilonbee&show_icons=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilonbee&theme=nightowl" />
 </p>
 
 ---
 
-<h3 align="center">💙 Thanks for visiting! Let’s build something amazing together.</h3>
+<h2 align="center">💙 Thanks for stopping by! Let's build something extraordinary.</h2>
