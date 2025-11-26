@@ -1,61 +1,141 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+I'm+a+Fullstack+Developer;I+'am+good+with+MERN+Stack+and+Next+Js;I'm+passionate+of+building+clean+UI)](https://git.io/typing-svg)
+<h1 align="center">👋 Hey, I'm Nilan Athapaththu</h1>
 
-👋 Hi, I'm Nilan Athapaththu, a Full Stack Developer with a passion for creating clean and efficient user interfaces. Welcome to my GitHub!
-
-🚀 Frameworks & Libraries 🔝
-
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-👩‍💻 Languages 🔝
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-📊 Analytics 🔝
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-
-⚡ Database 🔝
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-🖍 Design 🔝
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-📚 Education 🔝
-
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Slideshare](https://img.shields.io/badge/Slideshare-0077B5?style=for-the-badge&logo=slideshare&logoColor=white)
-
-👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=nilonbee)
-
-🌱 Currently working on...
-
-- [full-Project](https://campusdirect.io)
-
-💬 Get in touch...
-
-- LinkedIn: [Nilan Athapaththu](https://www.linkedin.com/in/nilan-athapaththu-739499203)
-- Email: [nilonbee@gmail.com](nilonbee@gmail.com)
-
-Feel free to explore my projects and don't hesitate to get in touch for collaboration or if you have any questions. Let's build amazing things together!
+<p align="center">
+  <strong>Full Stack Developer | Software Engineer | Problem Solver</strong><br/>
+  Passionate about building scalable systems, elegant UI, and meaningful digital experiences.
+</p>
 
 ---
 
-Copyright © 2023 Nilan Athapaththu. All rights reserved.
+## 🚀 About Me  
+Hey there! I'm **Nilan**, a passionate Full Stack Developer with experience in building production-ready applications using **Next.js, React, Node.js, Nest.js, Laravel, Express**, and modern DevOps workflows.  
+From crafting clean, responsive interfaces to implementing robust backend systems, I enjoy turning ideas into reliable digital products.
+
+✔ Strong in **software engineering principles**  
+✔ Experienced in **performance optimization, SSR/CSR strategies, cloud deployments**  
+✔ Worked across **EdTech, Telecommunication, CRM, E-commerce** ecosystems  
+✔ Always learning, always improving  
+
+---
+
+## 🧠 Tech Stack & Skills (Creative Badges Edition)
+
+### 🎨 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind" />
+</p>
+
+### ⚙️ **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,mysql,mongodb,postgres" />
+</p>
+
+### 🛠️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,azure,vercel,docker,postman" />
+</p>
+
+### 🤖 **Other Skills**
+- Web Scraping (Puppeteer, Cheerio)  
+- Microservices & API Integrations  
+- Salesforce Integration (JSForce)  
+- Software design patterns  
+- CI/CD, DevOps basics  
+- A/B testing, Contentful, automation testing  
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 **Campus Direct Web – Full Next.js Platform**  
+🚀 Built end-to-end using **SSR + CSR hybrid rendering**  
+🎯 Implemented atomic design architecture  
+⚡ SEO optimized, fast, scalable  
+🔗 **Live:** https://www.campusdirect.io/
+
+---
+
+### 🔹 **University Course Scraper (Puppeteer + Cheerio)**  
+📡 Secure automated scraping  
+🧭 Extracts data from multiple university websites  
+🔗 Repo: https://github.com/nilonbee/university-courses-extractor/tree/master/universities
+
+---
+
+### 🔹 **Jobs Application Dashboard (MERN)**  
+✔ JWT authentication  
+✔ MongoDB + Express backend  
+✔ Fast React UI  
+🔗 Live: https://jobs-dashboard.onrender.com/
+
+---
+
+### 🔹 **Salesforce Middleware Layer**  
+💼 Node.js + Express  
+🔗 Real-time syncing between **Laravel backend** & **Salesforce CRM**  
+⚙ Uses JSForce
+
+---
+
+### 🔹 **RocketPhone (AI-Powered VoIP System)**  
+🎧 Call recording, transcription  
+🔁 Salesforce integration  
+🖥 UI engineering + automation testing  
+🔗 https://www.rocketphone.ai/
+
+---
+
+## 💼 Experience
+
+### **Full Stack Engineer – Campus Direct (May 2023 - Present)**
+- Next.js, React, Node.js, Nest.js developer  
+- Designed & deployed multiple production systems  
+- Created secure scrapers & backend architecture  
+- Worked with MySQL, Laravel, Salesforce integrations  
+
+### **Associate Frontend Engineer – Incubate Labs (2022 - Present)**
+- React, Redux, TypeScript  
+- Contentful Marketplace app  
+- A/B testing + personalization features  
+
+### **Software Engineer – RocketPhone (2021 - 2023)**  
+- Frontend engineering  
+- QA Automation  
+- UI/UX workflows  
+- CRM + VoIP features  
+
+---
+
+## 🎓 Education
+
+**B.Eng in Computer Science & Technology — Tianjin Agricultural University (China)**  
+Specialized in software engineering, algorithms, cloud computing & system design.
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="mailto:nilonbee@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/nilan-athapaththu-739499203"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://nilonbee-portfolio-24-nilonbees-projects.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
+
+---
+
+## 🧩 Fun Personal Notes  
+- 🌍 Love building products that help communities  
+- 🎨 Big fan of clean UI and animations  
+- 💡 Obsessed with web performance and clean architecture  
+- 🔧 Always experimenting with new stacks  
+
+---
+
+## ⭐ GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nilonbee&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilonbee&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">💙 Thanks for visiting! Let’s build something amazing together.</h3>
