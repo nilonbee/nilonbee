@@ -1,7 +1,4 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadbilaldev/animated-readme-text/main/nilan-animated-text.svg" alt="Animated Developer Title" />
-</p>
 
 <h1 align="center">✨ Full Stack Developer | Software Engineer | Problem Solver ✨</h1>
 
